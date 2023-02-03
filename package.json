@@ -13,5 +13,18 @@
     "jade": "^0.29.0",
     "morgan": "~1.9.1",
     "nodemon": "^2.0.20"
-  }
+  },
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnmartinezc/ExpressBlogger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnmartinezc/ExpressBlogger/issues"
+  },
+  "homepage": "https://github.com/johnmartinezc/ExpressBlogger#readme",
+  "description": ""
 }
